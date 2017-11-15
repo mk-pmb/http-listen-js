@@ -1,0 +1,25 @@
+{ "name": "http-listen",
+  "version": "1.0.0",
+  "description": "Helps me set up an HTTP server for one-function modules.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/http-listen-node/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/http-listen-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/http-listen-node/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "lsn.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
